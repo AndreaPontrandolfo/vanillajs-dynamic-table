@@ -16,7 +16,7 @@
 
 ### 🏠 [Homepage](https://github.com/AndreaPontrandolfo/vanillajs-dynamic-table)
 
-### ✨ [Demo](wip)
+### ✨ [Demo](https://andreapontrandolfo.github.io/vanillajs-dynamic-table/)
 
 # Usage
 
